@@ -1,18 +1,19 @@
-# 🧟 Zombie Survival Game (C++)  
+# 🧟 Zombie Survival Game (C++)
 
-A terminal-based game built with **object-oriented programming** principles, featuring dynamic combat systems and modular design.  
+A terminal-based survival game demonstrating **object-oriented programming (OOP)** principles, built with modular C++.
 
-## 🛠️ Features  
-- **Class Hierarchy:** Humans, zombies, and weapons modeled with inheritance/polymorphism.  
-- **Combat Mechanics:** Health management, attack calculations, and inventory system.  
-- **Modular Code:** Separated headers (`*.h`) and source files (`*.cpp`) for scalability.  
+## 🚀 Features
+- **Class Hierarchy**: `Human`, `Zombie`, and `Weapon` classes with inheritance/polymorphism.
+- **Combat System**: Health management, attack mechanics, and inventory logic.
+- **Modular Design**: Separated header (`*.h`) and source (`*.cpp`) files for scalability.
 
-## 🚀 Technologies  
-- **Language:** C++  
-- **Tools:** Makefile, manual memory management  
+## 🛠️ Tech Stack
+![C++](https://img.shields.io/badge/C++-Intermediate-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-Expert-3776AB?style=flat)
+![Makefile](https://img.shields.io/badge/Build-Makefile-003B7B?style=flat&logo=cmake)
 
-## 📦 Installation  
+## 📦 Installation
 ```bash
-git clone https://github.com/ParhamBeik/IUSTZ.git  
-cd IUSTZ  
-make && ./game  
+git clone https://github.com/ParhamBeik/IUSTZ.git
+cd IUSTZ
+make && ./game
